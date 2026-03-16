@@ -141,6 +141,8 @@ For projects hosted elsewhere, use this format:
 
 * [DanielleB-R/dcc](https://github.com/DanielleB-R/dcc) - An implementation of all 20 chapters in Rust, including all Part I extra credit. Considering further extensions to compile real C code, or an ARM backend. Built for Linux and macOS.
 
+* [peter-fogg/writing-a-c-compiler](https://github.com/peter-fogg/writing-a-c-compiler/) - A more-or-less by the book implementation in Rust. Planning on adding all extra credit features. Check the README.md for the current status.
+
 ## Zig
 
 * [asibahi/paella](https://github.com/asibahi/paella) - Straightforward implementation in Zig 0.14.0, with some ideas from the Zig compiler itself. Currently halfway to chapter 5 (variables).
